@@ -10,7 +10,7 @@ $(document).ready(function() {
 			}
 		});
 		*/
-		$("#ajax").load("/demo.html");
+		$("#ajax").load("../demo.html");
 		/*
 		$.get("http://localhost:1234/demo.html", function(response) {
 			$("#ajax").html(response);
